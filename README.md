@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eaiii 👋 <img align="center" alt="mac-john" height="60" width="80" src="https://tenor.com/view/come-on-irritated-mad-monkey-typing-gif-14805510">
 
 <!--
 **Sousa-jp/sousa-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
