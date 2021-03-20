@@ -6,4 +6,4 @@
 <img height="160" width="460" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sousa-jp&theme=chartreuse-dark&layout=compact"/>
 <div>
   
-layout=compact&theme=chartreuse-dark
+
