@@ -1,12 +1,17 @@
 ### Eaii! Meu nome é João, sou apaixonado por tecnologia e viciado em adquirir conhecimento!!
 
 
+- 🎓 Graduando de Engenharia Eletrônica na Universidade Federal de Santa Catarina.
+- 📚 Atualmente estudando programação com foco em python.
+- 📌 Viciado em fazer cursos pela internet!
+
+
 <a href="https://github.com/Sousa-jp">
   <img align="center" height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sousa-jp&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sousa-jp&theme=chartreuse-dark&layout=compact"/>
 <div>
   
-  <div align="center" style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Sousa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sousa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Sousa-VHSIC" height="30" width="35" src="https://vhdplus.com/img/icons/cpu_icon.svg">
