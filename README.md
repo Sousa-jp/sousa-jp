@@ -6,7 +6,7 @@
   <img align="center" height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sousa-jp&theme=chartreuse-dark&layout=compact"/>
 <div>
   
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Sousa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sousa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Sousa-VHSIC" height="30" width="35" src="https://vhdplus.com/img/icons/cpu_icon.svg">
