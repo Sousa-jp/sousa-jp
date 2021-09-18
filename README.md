@@ -2,7 +2,8 @@
 
 
 - 🎓 Graduando de Engenharia Eletrônica na Universidade Federal de Santa Catarina.
-- 📚 Atualmente estudando programação com foco em python.
+- 👨‍🏭 Trabalhando com Appsheet e automações em python
+- 📚 Atualmente Estudando programação com foco em python.
 - 📌 Viciado em fazer cursos pela internet!
 
 
@@ -13,8 +14,9 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Sousa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sousa-appsheet" height="30" width="40" src="https://img.utdstc.com/icon/7b7/841/7b7841c0e2949335a72979a1791e760c39ef89a632e9f6c32dc1b9450c82a521:200">
   <img align="center" alt="Sousa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Sousa-VHSIC" height="30" width="35" src="https://vhdplus.com/img/icons/cpu_icon.svg">
+  <img align="center" alt="Sousa-VHDL" height="30" width="35" src="https://vhdplus.com/img/icons/cpu_icon.svg">
 </div>
   
   ##
