@@ -14,11 +14,12 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Sousa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sousa-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Sousa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Sousa-appsheet" height="30" width="32" src="https://img.utdstc.com/icon/7b7/841/7b7841c0e2949335a72979a1791e760c39ef89a632e9f6c32dc1b9450c82a521:200">
   <img align="center" alt="Sousa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Sousa-VHDL" height="30" width="35" src="https://vhdplus.com/img/icons/cpu_icon.svg">
-    
+  <img align="center" alt="Sousa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
   ##
