@@ -3,7 +3,7 @@
 
 - 🎓 Graduando de Engenharia Eletrônica na Universidade Federal de Santa Catarina.
 - 👨‍🏭 Trabalhando com Appsheet e automações em python
-- 📚 Atualmente Estudando programação com foco em python.
+- 📚 Atualmente Estudando MySQL e python.
 - 📌 Viciado em fazer cursos pela internet!
 
 
